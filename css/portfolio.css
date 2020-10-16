@@ -19,6 +19,16 @@
     margin : auto;
   }
 
+  .skills{
+    display: table;
+    align-items: center;
+  }
+
+  .column {
+    display: table-cell;
+    width : 50%;
+  }
+
 }
 @media screen and (max-width:699px)
 {
@@ -57,9 +67,9 @@
 }
 
 .skills {
-  margin-top: -30px;
-  border-radius: 12px;
-  padding: 0 10%;
+  margin-top: -30px !important;
+  border-radius: 12px !important;
+  padding: 0 10% !important;
 }
 
 .column {
@@ -73,15 +83,16 @@
   box-shadow: 0 5px 5px 0 rgba(233, 240, 243, 0.5);
 }
 
-.column:first-child {
+.column:last-child {
   border-bottom-left-radius: 0px;
   border-top-left-radius: 0px;
 }
 
-.column:last-child {
+.column:first-child {
   border-top-right-radius: 0px;
   border-bottom-right-radius: 0px;
 }
+
 
 .column ul {
   list-style: none;
