@@ -67,9 +67,10 @@
 }
 
 .skills {
-  margin-top: -30px !important;
-  border-radius: 12px !important;
-  padding: 0 10% !important;
+  width: 75%;
+  margin-top: -30px ;
+  border-radius: 12px ;
+  padding: 0 10%;
 }
 
 .column {
@@ -83,16 +84,18 @@
   box-shadow: 0 5px 5px 0 rgba(233, 240, 243, 0.5);
 }
 
-.column:last-child {
-  border-bottom-left-radius: 0px;
-  border-top-left-radius: 0px;
-}
-
 .column:first-child {
   border-top-right-radius: 0px;
   border-bottom-right-radius: 0px;
+  
 }
 
+
+.column:last-child {
+  border-bottom-left-radius: 0px;
+  border-top-left-radius: 0px;
+  
+}
 
 .column ul {
   list-style: none;
