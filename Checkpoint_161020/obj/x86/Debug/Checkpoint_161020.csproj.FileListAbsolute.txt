@@ -1,0 +1,6 @@
+/home/wilder/Projects/Checkpoint_161020/Checkpoint_161020/obj/x86/Debug/Checkpoint_161020.csprojAssemblyReference.cache
+/home/wilder/Projects/Checkpoint_161020/Checkpoint_161020/obj/x86/Debug/Checkpoint_161020.csproj.CoreCompileInputs.cache
+/home/wilder/Projects/Checkpoint_161020/Checkpoint_161020/bin/Debug/Checkpoint_161020.exe
+/home/wilder/Projects/Checkpoint_161020/Checkpoint_161020/bin/Debug/Checkpoint_161020.pdb
+/home/wilder/Projects/Checkpoint_161020/Checkpoint_161020/obj/x86/Debug/Checkpoint_161020.exe
+/home/wilder/Projects/Checkpoint_161020/Checkpoint_161020/obj/x86/Debug/Checkpoint_161020.pdb
