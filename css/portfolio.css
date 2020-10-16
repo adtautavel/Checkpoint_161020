@@ -1,3 +1,32 @@
+@media screen and (min-width : 700px)
+{
+  .logo{
+    position: absolute;
+    left : 0%;
+    
+  }
+
+  .navbar {
+    display : flex;
+    justify-content: flex-end;
+    margin: 10px 10px;
+
+  }
+
+  .first-banner
+  {
+    text-align: center;
+    margin : auto;
+  }
+
+}
+@media screen and (max-width:699px)
+{
+  .first-banner .desktop{
+    display:none;
+  }
+}
+
 .pink-bg {
   background-color: pink;
 }
